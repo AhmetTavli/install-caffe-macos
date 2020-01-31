@@ -44,6 +44,14 @@ DeFacto standard tool for generating the documentation
 brew install doxygen
 ```
 
+2. [MATLAB](https://www.mathworks.com/products/get-matlab.html?s_tid=gn_getml)
+
+Set MATLAB Build ON
+
+```cmake
+caffe_option(BUILD_matlab "Build Matlab wrapper" ON IF UNIX OR APPLE)
+```
+
 ## Contributing :thought_balloon:
 Pull requests are welcome.
 
