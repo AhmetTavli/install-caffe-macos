@@ -60,4 +60,4 @@ For major changes, please open an issue, then discuss what you would like to cha
  ## License :scroll:
 [MIT](https://opensource.org/licenses/MIT)
 
-
+[cmake_directories]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/cmake_directories.png "source code:opencv, binaries: opencv/build"
