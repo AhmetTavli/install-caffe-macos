@@ -52,6 +52,9 @@ Set MATLAB Build ON
 caffe_option(BUILD_matlab "Build Matlab wrapper" ON IF UNIX OR APPLE)
 ```
 
+Compilation :trackball:
+===========
+
 4. Set the directories
 
 ![alt_text][cmake_directories]
