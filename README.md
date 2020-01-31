@@ -4,7 +4,7 @@
 [![Python](https://github.com/AhmetTavli/Badge/blob/master/badges/python_badge.svg)](https://www.python.org/)
 [![Caffe](https://github.com/AhmetTavli/Badge/blob/master/badges/caffe.svg)](https://caffe.berkeleyvision.org/)
 
-# Caffe Installation Instructions for CPU and
+# Caffe Installation Instructions for CPU and Python 3
 Make sure you've downloaded [caffe-master](https://github.com/BVLC/caffe)
 
 Open the [CMakeList.txt](https://github.com/BVLC/caffe/blob/master/CMakeLists.txt)
