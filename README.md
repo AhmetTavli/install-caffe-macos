@@ -52,6 +52,10 @@ Set MATLAB Build ON
 caffe_option(BUILD_matlab "Build Matlab wrapper" ON IF UNIX OR APPLE)
 ```
 
+4. Set the directories
+
+![alt_text][cmake_directories]
+
 ## Contributing :thought_balloon:
 Pull requests are welcome.
 
@@ -60,4 +64,4 @@ For major changes, please open an issue, then discuss what you would like to cha
  ## License :scroll:
 [MIT](https://opensource.org/licenses/MIT)
 
-[cmake_directories]: https://github.com/AhmetTavli/OpenCV-macOS-Installation-Instructions/blob/master/Images/cmake_directories.png "source code:opencv, binaries: opencv/build"
+[cmake_directories]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/build_specification.png "source code:caffe-master, binaries: caffe-master/build"
