@@ -75,6 +75,14 @@ make all -j4
 
 ![alt_text][make_all_success]
 
+7. Install the libraries
+
+```shell
+make install
+```
+
+![alt_text][make_install]
+
 ## Contributing :thought_balloon:
 Pull requests are welcome.
 
@@ -89,4 +97,6 @@ For major changes, please open an issue, then discuss what you would like to cha
 
 [caffe_configuration_summary]:  https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/caffe_configuration_summary.png "Caffe Summary"
 
-[make_all_success]:  https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/make_all_success.png 
+[make_all_success]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/make_all_success.png 
+
+[make_install]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/make_install.png 
