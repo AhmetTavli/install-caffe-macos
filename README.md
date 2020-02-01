@@ -52,6 +52,10 @@ Set MATLAB Build ON
 caffe_option(BUILD_matlab "Build Matlab wrapper" ON IF UNIX OR APPLE)
 ```
 
+Then set the following directories:
+
+![alt_text][matlab_directories]
+
 Compilation :trackball:
 ===========
 
@@ -66,5 +70,7 @@ For major changes, please open an issue, then discuss what you would like to cha
 
  ## License :scroll:
 [MIT](https://opensource.org/licenses/MIT)
+
+[matlab_directories]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/matlab_directories.png "Need to set the following parameters"
 
 [cmake_directories]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/build_specification.png "source code:caffe-master, binaries: caffe-master/build"
