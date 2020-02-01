@@ -63,6 +63,10 @@ Compilation :trackball:
 
 ![alt_text][cmake_directories]
 
+5. Make sure both configureaation and Generation executed successfully
+
+![alt_text][caffe_configuration_summary]
+
 ## Contributing :thought_balloon:
 Pull requests are welcome.
 
@@ -71,6 +75,8 @@ For major changes, please open an issue, then discuss what you would like to cha
  ## License :scroll:
 [MIT](https://opensource.org/licenses/MIT)
 
+[cmake_directories]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/build_specification.png "source code:caffe-master, binaries: caffe-master/build"
+
 [matlab_directories]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/matlab_directories.png "Need to set the following parameters"
 
-[cmake_directories]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/build_specification.png "source code:caffe-master, binaries: caffe-master/build"
+[caffe_configuration_summary]:  https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/caffe_configuration_summary.png "Caffe Summary" 
