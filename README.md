@@ -67,6 +67,14 @@ Compilation :trackball:
 
 ![alt_text][caffe_configuration_summary]
 
+6. Go to the build directory
+
+```shell
+make all -j4
+```
+
+
+
 ## Contributing :thought_balloon:
 Pull requests are welcome.
 
