@@ -2,9 +2,10 @@
 [![macOS](https://github.com/AhmetTavli/Badge/blob/master/badges/mac_badge.svg)](https://www.apple.com)
 [![CMake](https://github.com/AhmetTavli/Badge/blob/master/badges/cmake_badge.svg)](https://cmake.org/)
 [![Python](https://github.com/AhmetTavli/Badge/blob/master/badges/python_badge.svg)](https://www.python.org/)
+[![OpenCV](https://github.com/AhmetTavli/Badge/blob/master/badges/opencv_badge.svg)](https://opencv.org/)
 [![Caffe](https://github.com/AhmetTavli/Badge/blob/master/badges/caffe.svg)](https://caffe.berkeleyvision.org/)
 
-# Caffe Installation Instructions for CPU and Python 3
+# Caffe Installation Instructions for CPU, Python 3 and OpenCV 4
 Make sure you've downloaded [caffe-master](https://github.com/BVLC/caffe)
 
 Open the [CMakeList.txt](https://github.com/BVLC/caffe/blob/master/CMakeLists.txt)
@@ -94,7 +95,14 @@ If OpenCV Version 4 is installed on your system, you might encountered the follo
 
 # Solution :thinking:
 
-change CV_LOAD_IMAGE_COLOR name to the 
+change 
+
+```cpp 
+CV_LOAD_IMAGE_COLOR
+```
+
+name to the 
+
 ```cpp 
 cv::IMREAD_COLOR 
 ```
