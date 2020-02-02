@@ -84,6 +84,15 @@ make install
 
 ![alt_text][make_install]
 
+8. Run test
+
+```shell
+make runtest
+```
+
+![alt_text][runtest_success]
+
+
 CV_LOAD_IMAGE_COLOR Error :bangbang:
 =========================
 
@@ -136,3 +145,5 @@ For major changes, please open an issue, then discuss what you would like to cha
 [error2]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/error2.png 
 
 [error3]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/error3.png 
+
+[runtest_success]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/runtest_success.png 
