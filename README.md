@@ -108,9 +108,9 @@ Below are the changed Links:
 
 |                                  Download the link                                                 |  Paste in the path  |                                          
 |--------------------------------------------------------------------------------------------------- | ------------------- |
-| [io.cpp](https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/io.cpp) |  caffe-master/src/caffe/layers/ |
-| [test_io.cpp](https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/test_io.cpp) | caffe-master/src/caffe/util/ |
-| [window_data_layer.cpp](https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/window_data_layer.cpp) | caffe-master/src/caffe/test/ |
+| [io.cpp](https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/io.cpp) |  caffe-master/src/caffe/util/ |
+| [test_io.cpp](https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/test_io.cpp) | caffe-master/src/caffe/test/ |
+| [window_data_layer.cpp](https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/window_data_layer.cpp) | caffe-master/src/caffe/layers/ |
 
 
 ## Contributing :thought_balloon:
