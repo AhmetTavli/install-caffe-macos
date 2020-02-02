@@ -83,6 +83,11 @@ make install
 
 ![alt_text][make_install]
 
+CV_LOAD_IMAGE_COLOR Error :bangbang:
+=========================
+
+
+
 ## Contributing :thought_balloon:
 Pull requests are welcome.
 
