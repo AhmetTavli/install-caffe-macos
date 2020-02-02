@@ -94,7 +94,7 @@ If OpenCV Version 4 is installed on your system, you might encountered the follo
 
 # Solution :thinking:
 
-change CV_LOAD_IMAGE_COLOR name to the ```shell cv::IMREAD_COLOR ```
+change CV_LOAD_IMAGE_COLOR name to the ```cpp cv::IMREAD_COLOR ```
 
 ## Contributing :thought_balloon:
 Pull requests are welcome.
