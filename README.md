@@ -97,7 +97,9 @@ If OpenCV Version 4 is installed on your system, you might encountered the follo
 
 change CV_LOAD_IMAGE_COLOR name to the cv::IMREAD_COLOR 
 
-Links: [io.cpp](io)
+Links: [io.cpp](https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/io.cpp)
+       [test_io.cpp](https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/test_io.cpp)
+       [window_data_layer.cpp](https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/window_data_layer.cpp)
 
 
 ## Contributing :thought_balloon:
@@ -123,9 +125,3 @@ For major changes, please open an issue, then discuss what you would like to cha
 [error2]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/error2.png 
 
 [error3]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/error3.png 
-
-[io]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/io.cpp
-
-[test_io]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/test_io.cpp
-
-[window_data_layer]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/window_data_layer.cpp
