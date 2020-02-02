@@ -98,6 +98,7 @@ If OpenCV Version 4 is installed on your system, you might encountered the follo
 ```cpp
 change CV_LOAD_IMAGE_COLOR name to the cv::IMREAD_COLOR 
 ```
+[Source](https://groups.google.com/forum/#!topic/caffe-users/lr10Q5RCiTo)
 
 Below are the changed Links: 
 
