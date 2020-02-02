@@ -86,6 +86,12 @@ make install
 CV_LOAD_IMAGE_COLOR Error :bangbang:
 =========================
 
+If OpenCV Version 4 is installed on your system, you might encountered the following problems: 
+
+![alt_text][error1]
+![alt_text][error2]
+![alt_text][error3]
+
 
 
 ## Contributing :thought_balloon:
@@ -105,3 +111,9 @@ For major changes, please open an issue, then discuss what you would like to cha
 [make_all_success]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/make_all_success.png 
 
 [make_install]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/make_install.png 
+
+[error1]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/error1.png 
+
+[error2]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/error2.png 
+
+[error3]: https://github.com/AhmetTavli/install-caffe-macos/blob/master/images/error3.png 
