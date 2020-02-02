@@ -95,8 +95,11 @@ If OpenCV Version 4 is installed on your system, you might encountered the follo
 
 # Solution :thinking:
 
+change the followings:
+
 ```cpp
-change CV_LOAD_IMAGE_COLOR name to the cv::IMREAD_COLOR 
+ CV_LOAD_IMAGE_COLOR     -> cv::IMREAD_COLOR 
+ CV_LOAD_IMAGE_GRAYSACLE -> cv::IMREAD_GRAYSCALE
 ```
 
 [Source](https://groups.google.com/forum/#!topic/caffe-users/lr10Q5RCiTo)
