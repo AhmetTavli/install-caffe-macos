@@ -101,13 +101,11 @@ change CV_LOAD_IMAGE_COLOR name to the cv::IMREAD_COLOR
 
 Below are the changed Links: 
 
-|                                               Link                                                 |   Path |                                          
-|--------------------------------------------------------------------------------------------------- | ------ |
+|                                          Copy Link                                                 |  Paste in the Path  |                                          
+|--------------------------------------------------------------------------------------------------- | ------------------- |
 | [io.cpp](https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/io.cpp) |  caffe-master/src/caffe/layers/ |
-
-[test_io.cpp](https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/test_io.cpp)
-
-[window_data_layer.cpp](https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/window_data_layer.cpp)
+| [test_io.cpp](https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/test_io.cpp) | caffe-master/src/caffe/util/ |
+| [window_data_layer.cpp](https://github.com/AhmetTavli/install-caffe-macos/blob/master/updated-for-opencv4/window_data_layer.cpp) | caffe-master/src/caffe/test/ |
 
 
 ## Contributing :thought_balloon:
